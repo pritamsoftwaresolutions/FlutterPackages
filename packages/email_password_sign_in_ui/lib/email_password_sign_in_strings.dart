@@ -6,9 +6,10 @@ class EmailPasswordSignInStrings {
   static const String signIn = 'Sign in';
   static const String register = 'Register';
   static const String forgotPassword = 'Forgot password';
-  static const String forgotPasswordQuestion = 'Forgot password?';
+  static const String forgotPasswordQuestion = 'Forgot password? 1';
   static const String createAnAccount = 'Create an account';
-  static const String needAnAccount = 'Need an account? Register';
+  //static const String needAnAccount = 'Need an account? Register';
+  static const String needAnAccount = '';
   static const String haveAnAccount = 'Have an account? Sign in';
   static const String signInFailed = 'Sign in failed';
   static const String registrationFailed = 'Registration failed';
